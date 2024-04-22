@@ -1,6 +1,5 @@
 <html>
-  <body>
-<h1>Jio-bp JBJ</h1>
+	<head>
 
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
@@ -21,6 +20,13 @@
 	};
 </script>
 <script type='text/javascript' src='https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWMIAWDeployment71713796810012/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+  
+	</head>
+  <body>
+<h1>Jio-bp JBJ</h1>
+
+
 
     
   </body>
