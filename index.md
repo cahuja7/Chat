@@ -9,8 +9,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D1s0000001LUu',
-				'BotDeployment_7',
-				'https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWBotDeployment71713928827664',
+				'BotDeployment_77',
+				'https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWBotDeployment771713937734355',
 				{
 					scrt2URL: 'https://one-jiobp--pocnonrex.sandbox.my.salesforce-scrt.com'
 				}
@@ -20,8 +20,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWBotDeployment71713928827664/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
+<script type='text/javascript' src='https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWBotDeployment771713937734355/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 
 <!--
