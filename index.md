@@ -2,6 +2,29 @@
 	<head>
 
 
+<script type='text/javascript'>
+	function initEmbeddedMessaging() {
+		try {
+			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
+
+			embeddedservice_bootstrap.init(
+				'00D1s0000001LUu',
+				'BotDeployment_7',
+				'https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWBotDeployment71713928827664',
+				{
+					scrt2URL: 'https://one-jiobp--pocnonrex.sandbox.my.salesforce-scrt.com'
+				}
+			);
+		} catch (err) {
+			console.error('Error loading Embedded Messaging: ', err);
+		}
+	};
+</script>
+<script type='text/javascript' src='https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWBotDeployment71713928827664/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+
+
+<!--
 <script type='text/javascript'> 
 	function initEmbeddedMessaging() {
 		try {
@@ -21,6 +44,12 @@
 	};
 </script>
 <script type='text/javascript' src='https://one-jiobp--pocnonrex.sandbox.my.site.com/ESWMIAWDeployment71713796810012/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
+-->
+
+
+
+
 	</head>
   <body>
 
