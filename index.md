@@ -1,13 +1,3 @@
-<html>
-	<head>
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-
-
-	</head>
-  <body>
-
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -27,8 +17,3 @@
 	};
 </script>
 <script type='text/javascript' src='https://one-jiobp--full.sandbox.my.site.com/ESWFRMIAWBotWebDeploy1717151051687/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
-
-
-  </body>
-</html>
